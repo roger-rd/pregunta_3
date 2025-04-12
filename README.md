@@ -1,4 +1,4 @@
-# 🎨 Proyecto Extendido — Interacción de Colores con HTML, CSS y JS
+# 🎨 Pregunta 3 — Interacción de Colores con HTML, CSS y JS
 
 Este proyecto es una práctica interactiva donde se implementan funciones dinámicas para modificar visualmente el contenido de una página web utilizando **JavaScript**, **HTML** y **CSS**.
 
@@ -31,9 +31,9 @@ Este proyecto es una práctica interactiva donde se implementan funciones dinám
 
 ## 💡 Instrucciones para visualizar
 
-Puedes abrir el archivo `index.html` directamente en tu navegador favorito. Requiere solo entorno local (no depende de frameworks ni back-end).
+Puedes abrir el proyecto localmente con cualquier navegador moderno o acceder directamente a través de Netlify:
 
-También puede ser desplegado en plataformas como **Netlify** o **GitHub Pages**.
+🔗 [Ver App](https://taller-aplicaciones-pregunta-3.netlify.app/) 
 
 ---
 
